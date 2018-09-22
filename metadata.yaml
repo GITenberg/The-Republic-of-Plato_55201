@@ -1,0 +1,33 @@
+_repo: The-Republic-of-Plato_55201
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jowett, Benjamin
+    alias: Jowett, William
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '94'
+    url: http://www.gutenberg.org/2009/agents/94
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2017-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Republic of Plato
+url: http://www.gutenberg.org/ebooks/55201
